@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.telasomaswing;
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author raphael
+ * @author Raphael Gomes Leal
  */
 public class TelaSoma extends javax.swing.JFrame {
 
